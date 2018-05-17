@@ -1,0 +1,48 @@
+Book title;Author;Book Owner;Shelf;Position on Shelf
+jewish literacy;rabbi joseph telushkin;evelyn sinclair;a1;1
+plato not prozac;lou marinoff phd;evelyn sinclair;a1;2
+the souls code;james hillman;evelyn sinclair;a1;3
+why good things happen to good people;stephen post phd, jill neimark;evelyn sinclair;a1;4
+conversations with god an uncommon dialogue;neale donald walsch;evelyn sinclair;a1;5
+the seekers;daniel j boorstin;evelyn sinclair;a1;6
+founding father;brookhiser;robert sinclair;a2;1
+our endangered values;jimmy carter;janice fox;a2;2
+keeping faith;jimmy carter;robert sinclair;a2;3
+the unfinished presidency;douglas brinkley;robert sinclair;a2;4
+the vantage point perspectives of the presidency 1963 to 1969;lyndon baines johnson;robert sinclair;a2;5
+world poetry; washburn major fadiman; evelyn sinclair; a2; 6
+seasons of her life; ann blackman; evelyn sinclair; a2; 7
+a history of euorope; j. m. roberts; robert sinclair; a2; 8
+a history of  scotland; j. d. mackie; robert sinclair; a3; 1 
+inventing a nation; gore vidal; robert sinclair; a3; 2 
+tuesdays with morrie; mitch albom; evelyn sinclair; a3; 3 
+too soon old too late smar: thirty true things you need to know now; gordon livingston m d; evelyn sinclair; a3; 4 
+how to practice; dalai lama; evelyn sinclair; a3; 5
+the french revolution; thomas carlyle; robert sinclair; a3; 6 
+the wealth of nations; adam smith; robert sinclair; a3; 7
+life meditations; edward j. lavin; evelyn sinclair; a3; 8
+merriam-webster's encyclopedia of world religions; merriam webster; evelyn sinclair; a4; 1 
+encyclopedia of literature; merriam-webster; evelyn sinclair; a4; 2 
+a struggle for power; theodore draper; robert sinclair; a4; 3 
+the fifties; david halberstan; robert sinclair; a4; 4
+catastrophe 1914; max hastings; robert sinclair; a4; 5 
+emotional alchemy how the mind can heal the heart; tara bennett-goleman; evelyn sinclair; a4; 6
+pale blue dot; carl sagan; robert sinclair; a4; 7
+think; simon blackburn; evelyn sinclair; a5; 1 
+meditation from a simple path; lucinda vardey and mother teresa; evelyn sinclair; a5; 2
+to begin again; naomi levy; evelyn sinclair; a5; 3 
+mutant message down under; marlo morgan; evelyn sinclair; a5; 4
+yes or no; spencer johnson m d; evelyn sinclair; a5; 5 
+a woman's worth; marianne williamson; evelyn sinclair; a5; 6
+the art of happiness; dalai llama and howard c. cutler m d; evelyn sinclair; a5; 7
+gift from the sea; anne morrow lindbergh; evelyn sinclair; a5; 8 
+the christmas box; richard paul evans; evelyn sinclair; a5; 9
+christmas in plains; jimmy carter; robert sinclair; a5; 10
+the family mark twain; mark twain; evelyn sinclair; a6; 1 
+history of the world; j.m. roberts; robert sinclair; a6; 2 
+the original illustrated sherlock holmes; sir arthur conan doyle; lauren sinclair; a6; 3
+art history; marilyn stokstad; evelyn sinclair; a6; 4
+life of pi; yann martel; evelyn sinclair; a7; 1 
+the complete works; william shakespeare; robert sinclair; a7; 2 
+the character of physical law; richard feynman; evelyn sinclair; a7; 3 
+richard wagner the last of the titans; joachim köhler; robert sinclair; a7; 4

@@ -1,0 +1,12 @@
+Book title;Author;Book Owner;Shelf;Position on Shelf
+jewish literacy;rabbi joseph telushkin;evelyn sinclair;a1;1
+plato not prozac;lou marinoff phd;evelyn sinclair;a1;2
+the souls code;james hillman;evelyn sinclair;a1;3
+why good things happen to good people;stephen post phd, jill neimark;evelyn sinclair;a1;4
+conversations with god an uncommon dialogue;neale donald walsch;evelyn sinclair;a1;5
+the seekers;daniel j boorstin;evelyn sinclair;a1;6
+founding father;brookhiser;robert sinclair;a2;1
+our endangered values;jimmy carter;janice fox;a2;2
+keeping faith;jimmy carter;robert sinclair;a2;3
+the unfinished presidency;douglas brinkley;robert sinclair;a2;3
+the vantage point perspectives of the presidency 1963 to 1969;lyndon baines johnson;robert sinclair;a2;4
